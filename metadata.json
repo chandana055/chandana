@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ShopVision - AI Video Shopping",
+  "description": "An intelligent video player that automatically detects products in real-time when paused. Using Gemini AI, it identifies items and provides direct shopping links, creating a seamless 'see it, buy it' experience.",
+  "requestFramePermissions": []
+}
